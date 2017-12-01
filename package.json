@@ -1,0 +1,21 @@
+{
+  "name": "my-node-jenkins-docker",
+  "version": "1.0.0",
+  "description": "Testing Jenkins and Docker together.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmc2082/my-node-jenkins-docker/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Joshua Mackey",
+  "license": "ISC"
+}
